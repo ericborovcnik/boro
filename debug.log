@@ -1,0 +1,672 @@
+array(0) {
+}
+
+array(0) {
+}
+
+here
+here
+[16-Dec-2018 08:10:07 UTC] PHP Fatal error:  Uncaught Error: Class 'bla' not found in /mnt/www/boro/server.php:36
+Stack trace:
+#0 {main}
+  thrown in /mnt/www/boro/server.php on line 36
+[16-Dec-2018 08:17:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function function_get_args() in /mnt/www/boro/app/Log.php:15
+Stack trace:
+#0 /mnt/www/boro/server.php(36): Log::out()
+#1 {main}
+  thrown in /mnt/www/boro/app/Log.php on line 15
+1
+array(3) {
+   [0] =>  1
+   [1] =>  2
+   [2] =>  3
+}
+
+1
+2
+3
+array(0) {
+}
+
+array(0) {
+}
+
+here
+array(1) {
+   [0] =>  server.php
+}
+
+array(1) {
+   [0] =>  server.php
+}
+
+array(2) {
+   [0] =>  server.php
+   [1] =>  IO_Test
+}
+
+array(2) {
+   [0] =>  server.php
+   [1] =>  IO_Test
+}
+
+array(2) {
+   [0] =>  server.php
+   [1] =>  IO_Test
+}
+
+array(1) {
+   [0] =>  server.php
+}
+
+array(1) {
+   [0] =>  server.php
+}
+
+array(1) {
+   [0] =>  server.php
+}
+
+array(1) {
+   [0] =>  server.php
+}
+
+array(1) {
+   [0] =>  server.php
+}
+
+array(1) {
+   [0] =>  server.php
+}
+
+array(2) {
+   [0] =>  server.php
+   [1] =>  IO_Test
+}
+
+array(1) {
+   [0] =>  server.php
+}
+
+iO_Test
+IO_Test
+IO_Test
+IO_Test
+IO_Test&v1=1&v2=2
+IO_Test&v1=1&v2=2
+IO_Test&v1=1&v2=2
+IO_Test&v1=1&v2=2
+IO_Test&v1=1&v2=2
+IO_Test&v1=1&v2=2
+IO_Test&v1=1&v2=2
+array(3) {
+   [0] =>  IO_Test
+   [1] =>  v1=1
+   [2] =>  v2=2
+}
+
+array(2) {
+   [0] =>  IO_Test
+   [v] =>  lue
+}
+
+array(2) {
+   [0] =>  IO_Test
+   [v] =>  =2
+}
+
+array(3) {
+   [0] =>  IO_Test
+   [v1] =>  1
+   [v2] =>  2
+}
+
+array(3) {
+   [0] =>  IO_Test
+   [v1] =>  1
+   [v2] =>  2
+}
+
+array(3) {
+   [IO_Test] =>  
+   [v1] =>  1
+   [v2] =>  2
+}
+
+array(3) {
+   [IO_Test] =>  
+   [v1] =>  1
+   [v2] =>  2
+}
+
+array(3) {
+   [IO_Test] =>  
+   [v1] =>  1
+   [v2] =>  2
+}
+
+array(3) {
+   [IO_Test] =>  
+   [v1] =>  1
+   [v2] =>  2
+}
+
+array(3) {
+   [IO_Test] =>  
+   [v1] =>  1
+   [v2] =>  2
+}
+
+array(2) {
+   [v1] =>  1
+   [v2] =>  2
+}
+
+array(2) {
+   [v1] =>  1
+   [v2] =>  2
+}
+
+array(2) {
+   [v1] =>  1
+   [v2] =>  2
+}
+
+array(2) {
+   [v1] =>  1
+   [v2] =>  2
+}
+
+IO_Test
+
+v1
+1
+v2
+2
+array(2) {
+   [v1] =>  1
+   [v2] =>  2
+}
+
+array(3) {
+   [IO_Test] =>  
+   [v1] =>  1
+   [v2] =>  2
+}
+
+IO_Test
+
+v1
+1
+v2
+2
+array(3) {
+   [IO_Test] =>  
+   [v1] =>  1
+   [v2] =>  2
+}
+
+IO_Test
+
+IO_Test has no value
+v1
+1
+v2
+2
+array(3) {
+   [IO_Test] =>  
+   [v1] =>  1
+   [v2] =>  2
+}
+
+IO_Test
+
+IO_Test has no value
+ has no value
+v1
+1
+v2
+2
+array(3) {
+   [IO_Test] =>  
+   [v1] =>  1
+   [v2] =>  2
+}
+
+array(2) {
+   [v1] =>  1
+   [v2] =>  2
+}
+
+
+run
+array(1) {
+   [0] =>  
+}
+
+array(2) {
+   [v1] =>  1
+   [v2] =>  2
+}
+
+
+run
+array(1) {
+   [0] =>  IO_Test
+}
+
+array(2) {
+   [v1] =>  1
+   [v2] =>  2
+}
+
+IO_Test
+run
+IO_Test::run
+array(2) {
+   [v1] =>  1
+   [v2] =>  2
+}
+
+IO_Test::run
+array(2) {
+   [v1] =>  1
+   [v2] =>  2
+}
+
+IO_Test::run
+array(2) {
+   [v1] =>  1
+   [v2] =>  2
+}
+
+IO_Test
+run
+array(2) {
+   [v1] =>  1
+   [v2] =>  2
+}
+
+IO_Test2
+run
+array(2) {
+   [v1] =>  1
+   [v2] =>  2
+}
+
+
+run
+array(0) {
+}
+
+
+run
+array(0) {
+}
+
+array(1) {
+   [] =>  
+}
+
+processRequest
+array(1) {
+   [] =>  
+}
+
+array(1) {
+   [] =>  
+}
+
+processRequest
+array(1) {
+   [] =>  
+}
+
+array(1) {
+   [] =>  
+}
+
+processRequest
+array(1) {
+   [] =>  
+}
+
+array(0) {
+}
+
+processRequest
+array(0) {
+}
+
+array(1) {
+   [p1] =>  
+}
+
+processRequest
+array(1) {
+   [p1] =>  
+}
+
+array(2) {
+   [p1] =>  
+   [p2] =>  
+}
+
+processRequest
+array(2) {
+   [p1] =>  
+   [p2] =>  
+}
+
+array(3) {
+   [p1] =>  
+   [p2] =>  
+   [p3] =>  3
+}
+
+processRequest
+array(3) {
+   [p1] =>  
+   [p2] =>  
+   [p3] =>  3
+}
+
+array(3) {
+   [p1] =>  
+   [p2] =>  5
+   [p3] =>  3
+}
+
+processRequest
+array(3) {
+   [p1] =>  
+   [p2] =>  5
+   [p3] =>  3
+}
+
+array(3) {
+   [IO_Test] =>  
+   [v1] =>  1
+   [v2] =>  2
+}
+
+processRequest
+array(3) {
+   [IO_Test] =>  
+   [v1] =>  1
+   [v2] =>  2
+}
+
+p1::run
+array(2) {
+   [p2] =>  5
+   [p3] =>  3
+}
+
+p1::run
+array(0) {
+}
+
+::
+array(1) {
+   [p1] =>  2
+}
+
+echo
+
+echo
+{"ok":0,"error":"[] - invalid class","data":{"ok":0,"error":"[] - invalid class"}}
+echo
+{"ok":0,"error":"[] - invalid class","data":{"ok":0,"error":"[] - invalid class"}}
+[16-Dec-2018 10:45:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Util::arrayToObject() in /mnt/www/boro/server.php:101
+Stack trace:
+#0 /mnt/www/boro/server.php(110): processRequest(Array)
+#1 {main}
+  thrown in /mnt/www/boro/server.php on line 101
+[16-Dec-2018 10:45:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Util::arrayToObject() in /mnt/www/boro/server.php:101
+Stack trace:
+#0 /mnt/www/boro/server.php(110): processRequest(Array)
+#1 {main}
+  thrown in /mnt/www/boro/server.php on line 101
+[16-Dec-2018 10:45:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Util::arrayToObject() in /mnt/www/boro/server.php:101
+Stack trace:
+#0 /mnt/www/boro/server.php(110): processRequest(Array)
+#1 {main}
+  thrown in /mnt/www/boro/server.php on line 101
+[16-Dec-2018 10:48:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_empty() in /mnt/www/boro/app/Util.php:18
+Stack trace:
+#0 /mnt/www/boro/server.php(101): Util::arrayToObject(Array)
+#1 /mnt/www/boro/server.php(110): processRequest(Array)
+#2 {main}
+  thrown in /mnt/www/boro/app/Util.php on line 18
+[16-Dec-2018 10:48:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_empty() in /mnt/www/boro/app/Util.php:18
+Stack trace:
+#0 /mnt/www/boro/server.php(101): Util::arrayToObject(Array)
+#1 /mnt/www/boro/server.php(110): processRequest(Array)
+#2 {main}
+  thrown in /mnt/www/boro/app/Util.php on line 18
+[16-Dec-2018 10:48:51 UTC] PHP Fatal error:  Uncaught Error: Method name must be a string in /mnt/www/boro/server.php:102
+Stack trace:
+#0 /mnt/www/boro/server.php(110): processRequest(Array)
+#1 {main}
+  thrown in /mnt/www/boro/server.php on line 102
+[16-Dec-2018 10:49:02 UTC] PHP Fatal error:  Uncaught Error: Method name must be a string in /mnt/www/boro/server.php:102
+Stack trace:
+#0 /mnt/www/boro/server.php(110): processRequest(Array)
+#1 {main}
+  thrown in /mnt/www/boro/server.php on line 102
+[16-Dec-2018 10:49:04 UTC] PHP Fatal error:  Uncaught Error: Method name must be a string in /mnt/www/boro/server.php:102
+Stack trace:
+#0 /mnt/www/boro/server.php(110): processRequest(Array)
+#1 {main}
+  thrown in /mnt/www/boro/server.php on line 102
+IO_Test(1) {
+   ->params =  
+   ->run()
+   ->__construct()
+}
+
+IO_Test(1) {
+   ->params =  
+   ->run()
+   ->__construct()
+}
+
+IO_Test(1) {
+   ->params =  stdClass(2) {
+      ->v1 =  1
+      ->v2 =  2
+   }
+
+   ->run()
+   ->__construct()
+}
+
+IO_Test(1) {
+   ->params =  stdClass(2) {
+      ->v1 =  1
+      ->v2 =  2
+   }
+
+   ->run()
+   ->__construct()
+}
+
+[16-Dec-2018 10:53:01 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /mnt/www/boro/app/Log.php:75
+Stack trace:
+#0 /mnt/www/boro/app/Log.php(20): Log::_outTrace()
+#1 /mnt/www/boro/app/IO/Test.php(10): Log::out(Object(IO_Test))
+#2 /mnt/www/boro/server.php(102): IO_Test->run()
+#3 /mnt/www/boro/server.php(110): processRequest(Array)
+#4 {main}
+  thrown in /mnt/www/boro/app/Log.php on line 75
+IO_Test(1) {
+   ->params =  stdClass(2) {
+      ->v1 =  1
+      ->v2 =  2
+   }
+
+   ->run()
+   ->__construct()
+}
+
+IO_Test->run(10) <<< processRequest(102)IO_Test(1) {
+   ->params =  stdClass(2) {
+      ->v1 =  1
+      ->v2 =  2
+   }
+
+   ->run()
+   ->__construct()
+}
+
+IO_Test->run(10) <<< processRequest(102)IO_Test->run(10) <<< processRequest(102)IO_Test(1) {
+   ->params =  stdClass(2) {
+      ->v1 =  1
+      ->v2 =  2
+   }
+
+   ->run()
+   ->__construct()
+}
+
+IO_Test->run(10) <<< processRequest(102)IO_Test(1) {
+   ->params =  stdClass(2) {
+      ->v1 =  1
+      ->v2 =  2
+   }
+
+   ->run()
+   ->__construct()
+}
+
+[16-Dec-2018 10:54:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Log::touch() in /mnt/www/boro/app/IO/Test.php:10
+Stack trace:
+#0 /mnt/www/boro/server.php(102): IO_Test->run()
+#1 /mnt/www/boro/server.php(110): processRequest(Array)
+#2 {main}
+  thrown in /mnt/www/boro/app/IO/Test.php on line 10
+[16-Dec-2018 10:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Log::touch() in /mnt/www/boro/app/IO/Test.php:10
+Stack trace:
+#0 /mnt/www/boro/server.php(102): IO_Test->run()
+#1 /mnt/www/boro/server.php(110): processRequest(Array)
+#2 {main}
+  thrown in /mnt/www/boro/app/IO/Test.php on line 10
+[16-Dec-2018 10:55:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Log::touch() in /mnt/www/boro/app/IO/Test.php:10
+Stack trace:
+#0 /mnt/www/boro/server.php(102): IO_Test->run()
+#1 /mnt/www/boro/server.php(110): processRequest(Array)
+#2 {main}
+  thrown in /mnt/www/boro/app/IO/Test.php on line 10
+[16-Dec-2018 10:55:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Log::touch() in /mnt/www/boro/app/IO/Test.php:10
+Stack trace:
+#0 /mnt/www/boro/server.php(102): IO_Test->run()
+#1 /mnt/www/boro/server.php(110): processRequest(Array)
+#2 {main}
+  thrown in /mnt/www/boro/app/IO/Test.php on line 10
+[16-Dec-2018 10:55:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Log::touch() in /mnt/www/boro/app/IO/Test.php:10
+Stack trace:
+#0 /mnt/www/boro/server.php(102): IO_Test->run()
+#1 /mnt/www/boro/server.php(110): processRequest(Array)
+#2 {main}
+  thrown in /mnt/www/boro/app/IO/Test.php on line 10
+[16-Dec-2018 10:56:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Log::touch() in /mnt/www/boro/app/IO/Test.php:10
+Stack trace:
+#0 /mnt/www/boro/server.php(102): IO_Test->run()
+#1 /mnt/www/boro/server.php(111): processRequest(Array)
+#2 {main}
+  thrown in /mnt/www/boro/app/IO/Test.php on line 10
+[16-Dec-2018 10:56:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Log::touch() in /mnt/www/boro/app/IO/Test.php:10
+Stack trace:
+#0 /mnt/www/boro/server.php(102): IO_Test->run()
+#1 /mnt/www/boro/server.php(111): processRequest(Array)
+#2 {main}
+  thrown in /mnt/www/boro/app/IO/Test.php on line 10
+[16-Dec-2018 10:57:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Log::touch() in /mnt/www/boro/app/IO/Test.php:10
+Stack trace:
+#0 /mnt/www/boro/server.php(102): IO_Test->run()
+#1 /mnt/www/boro/server.php(112): processRequest(Array)
+#2 {main}
+  thrown in /mnt/www/boro/app/IO/Test.php on line 10
+[16-Dec-2018 10:57:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Log::touch() in /mnt/www/boro/app/IO/Test.php:10
+Stack trace:
+#0 /mnt/www/boro/server.php(102): IO_Test->run()
+#1 /mnt/www/boro/server.php(112): processRequest(Array)
+#2 {main}
+  thrown in /mnt/www/boro/app/IO/Test.php on line 10
+IO_Test->run(10) <<< processRequest(102)before
+IO_Test->run(12) <<< processRequest(102)after
+IO_Test->run(10) <<< processRequest(102)
+before
+IO_Test->run(12) <<< processRequest(102)
+after
+array(4) {
+   [0] =>  array(5) {
+      [file] =>  /mnt/www/boro/app/Log.php
+      [line] =>  17
+      [function] =>  _outTrace
+      [class] =>  Log
+      [type] =>  ::
+   }
+
+   [1] =>  array(5) {
+      [file] =>  /mnt/www/boro/app/IO/Test.php
+      [line] =>  10
+      [function] =>  out
+      [class] =>  Log
+      [type] =>  ::
+   }
+
+   [2] =>  array(5) {
+      [file] =>  /mnt/www/boro/server.php
+      [line] =>  102
+      [function] =>  run
+      [class] =>  IO_Test
+      [type] =>  ->
+   }
+
+   [3] =>  array(3) {
+      [file] =>  /mnt/www/boro/server.php
+      [line] =>  112
+      [function] =>  processRequest
+   }
+
+}
+
+IO_Test->run(10) <<< processRequest(102)
+before
+array(4) {
+   [0] =>  array(5) {
+      [file] =>  /mnt/www/boro/app/Log.php
+      [line] =>  17
+      [function] =>  _outTrace
+      [class] =>  Log
+      [type] =>  ::
+   }
+
+   [1] =>  array(5) {
+      [file] =>  /mnt/www/boro/app/IO/Test.php
+      [line] =>  12
+      [function] =>  out
+      [class] =>  Log
+      [type] =>  ::
+   }
+
+   [2] =>  array(5) {
+      [file] =>  /mnt/www/boro/server.php
+      [line] =>  102
+      [function] =>  run
+      [class] =>  IO_Test
+      [type] =>  ->
+   }
+
+   [3] =>  array(3) {
+      [file] =>  /mnt/www/boro/server.php
+      [line] =>  112
+      [function] =>  processRequest
+   }
+
+}
+
+IO_Test->run(12) <<< processRequest(102)
+after

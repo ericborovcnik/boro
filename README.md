@@ -1,2 +1,0 @@
-# boro
-Personal Web
